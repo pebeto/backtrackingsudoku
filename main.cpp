@@ -1,5 +1,6 @@
 #include <iostream>
 #include <stdlib.h>
+#include <unistd.h>
 #include "funcionesSudoku.h"
 using namespace std;
 
