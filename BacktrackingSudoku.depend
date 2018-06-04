@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1528050627 source:/home/jose/Documents/SUDOKU/Backtracking Sudoku/main.cpp
+	<iostream>
+	<unistd.h>
+	"funcionesSudoku.h"
+
+1528050791 /home/jose/Documents/SUDOKU/Backtracking Sudoku/funcionesSudoku.h
+
