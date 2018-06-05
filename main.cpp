@@ -54,7 +54,6 @@ int main() {
 		{0, 0, 8, 5, 0, 0, 0, 1, 0},
 		{0, 9 ,0, 0, 0, 0, 4, 0, 0}};
 
-
     resolverSudoku("Sudoku Facil:", sudokuFacil);
     cin.ignore();
     system("clear");
@@ -65,5 +64,6 @@ int main() {
     cin.ignore();
     system("clear");
     resolverSudoku("El sudoku más difícil:", elMasDificil);
+
 	return 0;
 }
